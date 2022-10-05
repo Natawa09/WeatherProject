@@ -35,3 +35,9 @@ container {
   font-size: 40px;
   margin-left: 5px;
 }
+
+#GitHubLink {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
