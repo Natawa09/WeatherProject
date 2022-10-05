@@ -1,0 +1,37 @@
+ul {
+  text-align: right;
+  margin: -25px 5px 0px 0px;
+}
+.cityName {
+  display: inline-block;
+  text-align: left;
+}
+.card-body {
+  text-align: center;
+}
+body {
+  font-family: "Aboreto", cursive;
+}
+#showedCity {
+  font-size: 50px;
+  padding-top: 15px;
+}
+#showedCityTemp {
+  font-size: 40px;
+}
+.showedCityBlock {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+container {
+  margin-top: 20px;
+}
+.sunrize,
+.sunset {
+  font-size: smaller;
+}
+
+#convertButton {
+  font-size: 40px;
+  margin-left: 5px;
+}
